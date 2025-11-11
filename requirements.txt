@@ -1,0 +1,10 @@
+# Core dependencies for Outlook Duplicates Cleaning
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1
+jupyter>=1.0
+notebook>=7.0
+
+# Optional: uncomment if working with large Excel or Parquet files
+# pyarrow>=14.0
+# xlrd>=2.0
